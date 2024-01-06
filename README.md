@@ -1,5 +1,5 @@
 # ElectroShop
-This project is to but Electronic products online.
+This project is to buy Electronic products online.
 
 Above Change main to master And open the file
 
